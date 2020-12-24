@@ -1,0 +1,45 @@
+body
+    {
+    	background-color: #f1bdaa;
+    }
+
+h1
+    {
+    	background-color: #854442;
+    	font-family: 'Racing Sans One', cursive;
+    	font-size: 40px;
+    	color: #f7d0cb;
+    }
+h2
+    {
+    	background-color: #fff4e6;
+    	font-family: 'Itim', cursive;
+    	font-size: 30px;
+    	color:#3c2f2f;
+    	border:solid;
+    	border-color: #4b3832;
+    }
+p
+    {
+    	background-color: #f7c19b;
+    	font-family: 'Rancho', cursive;
+    	font-size: 30px;
+    	color:#3c2f2f;
+    	border:3px dotted;
+    	border-color: #4b3832;
+    	border-radius: 50px;
+    }
+a:link, a:visited
+    {
+    	background-color: #aa6f73;
+    	color: #eea990;
+    	text-decoration: none;
+    	display: inline-block;
+    	border-radius: 25px;
+    	padding: 15px;
+    }
+a:hover, a:active
+    {
+    	background-color: #c98276;
+    	color: #d29985;
+    }
